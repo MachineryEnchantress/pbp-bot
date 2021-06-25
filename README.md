@@ -1,2 +1,2 @@
 # pbb-bot
-Push Button Bot
+Push Button Programable Bot
